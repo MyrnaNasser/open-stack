@@ -1,4 +1,3 @@
-# open-stack
 # Private-Cloud-Openstack-RDO
 
 ![WhatsApp Image 2023-03-12 at 3 55 18 PM](https://user-images.githubusercontent.com/59062315/227630679-fdfa5d78-9e72-43e6-93a1-e668bee3b4b4.jpeg)
